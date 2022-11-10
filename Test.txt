@@ -1,1 +1,3 @@
+git config --global user.name "Vladimir Zlobin"
+git config --global user.email dreaddevil@mail.ru
 git config --global alias.history 'log --graph'
